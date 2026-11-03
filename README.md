@@ -1,18 +1,21 @@
-# Hi, I'm Michael 👋
+# Hi, I'm Michael Bashit Pedon 👋
 
-**Software engineer & Master's student in Business Informatics** based in Voronezh, Russia. I hold a degree in Software Engineering and build full-stack web applications, with a strong foundation in algorithms, data structures and object-oriented design.
+**Software engineer & Master's student in Business Informatics** based in Voronezh, Russia (open to remote). I hold a Bachelor's in Applied Mathematics and Informatics from Voronezh State University and build full-stack web applications, with a strong foundation in algorithms, data structures and object-oriented design.
 
 - 🌐 Shipping production websites with **Next.js / React / TypeScript** and **Laravel / PHP**
 - 🧠 Comfortable across **C++, Java, C#, Swift** — from data structures to design patterns
 - 🎓 Pursuing a **Master's in Business Informatics** — bridging software engineering with business analytics, information systems and applied machine learning in Python
-- 🤝 Open to junior / intern software-engineering roles and freelance web projects
+- 💼 5+ years in client-facing roles — business development, crypto-exchange support (LATOKEN), travel-tech incident resolution (Ratehawk) and SEO
+- 🤝 Open to junior developer, technical support and tech-focused business roles, plus freelance web projects
 
 ## 🛠️ Tech stack
 
-**Languages:** TypeScript · JavaScript · PHP · Java · C++ · C# · Swift · Python · SQL<br>
+**Languages:** TypeScript · JavaScript · PHP · Java · C++ · C# · Swift · Python · SQL · 1C<br>
 **Frontend:** React · Next.js · Tailwind CSS · HTML5 / CSS3<br>
 **Backend:** Laravel · Filament · REST APIs<br>
-**Tools:** Git · Maven · CMake · Xcode · VS Code · cPanel deployment
+**Tools:** Git · Maven · CMake · Xcode · VS Code · cPanel deployment<br>
+**Business & support:** HubSpot · Salesforce · Zendesk · Google Search Console · SEMrush · Ahrefs · WordPress<br>
+**Spoken:** English (native) · Russian (B1)
 
 ## ⭐ Featured projects
 
@@ -30,4 +33,4 @@
 
 ---
 
-📫 Reach me through GitHub — feel free to open an issue on any project or connect with me.
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/michael-bmp/).
