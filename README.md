@@ -1,4 +1,4 @@
-# Hi, I'm Jeremiah 👋
+# Hi, I'm Michael 👋
 
 **Software engineer & Master's student in Business Informatics** based in Voronezh, Russia. I hold a degree in Software Engineering and build full-stack web applications, with a strong foundation in algorithms, data structures and object-oriented design.
 
