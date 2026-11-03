@@ -28,11 +28,6 @@
 | [**java-arraylist-vs-linkedlist-benchmark**](https://github.com/mbashit/java-arraylist-vs-linkedlist-benchmark) | Measuring Big-O in practice with JUnit-tested benchmarks | Java · JUnit 5 |
 | [**cpp-programming-fundamentals**](https://github.com/mbashit/cpp-programming-fundamentals) | 68 organised C++ exercises with a one-command CMake build | C++17 · CMake |
 
-## 📈 GitHub stats
-
-![mbashit's GitHub stats](https://github-readme-stats.vercel.app/api?username=mbashit&show_icons=true&hide_border=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mbashit&layout=compact&hide_border=true)
-
 ---
 
 📫 Reach me through GitHub — feel free to open an issue on any project or connect with me.
