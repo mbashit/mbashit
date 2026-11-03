@@ -1,10 +1,10 @@
-# Hi, I'm Michael 👋
+# Hi, I'm Jeremiah 👋
 
-**Software engineer & master's student** based in Voronezh, Russia. I hold a degree in Software Engineering and build full-stack web applications, with a strong foundation in algorithms, data structures and object-oriented design.
+**Software engineer & Master's student in Business Informatics** based in Voronezh, Russia. I hold a degree in Software Engineering and build full-stack web applications, with a strong foundation in algorithms, data structures and object-oriented design.
 
 - 🌐 Shipping production websites with **Next.js / React / TypeScript** and **Laravel / PHP**
 - 🧠 Comfortable across **C++, Java, C#, Swift** — from data structures to design patterns
-- 📚 Currently studying applied machine learning in Python and business-analytics systems
+- 🎓 Pursuing a **Master's in Business Informatics** — bridging software engineering with business analytics, information systems and applied machine learning in Python
 - 🤝 Open to junior / intern software-engineering roles and freelance web projects
 
 ## 🛠️ Tech stack
